@@ -28,7 +28,7 @@ LOLv1 without GT mean:
 <details>
 <summary>SonyTotalDark:</summary>
 
-![本地图片](./figures/sony.png "示例图片")
+![本地图片](./figures/Sony_visual.png "示例图片")
 
 </details>
 
