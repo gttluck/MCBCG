@@ -6,7 +6,7 @@ from data.data import *
 from torchvision import transforms
 from torch.utils.data import DataLoader
 from loss.losses import *
-from net.CIDNet import CIDNet
+from model.MCBCG_Net import MCBCG_Net
 
 eval_parser = argparse.ArgumentParser(description='Eval')
 eval_parser.add_argument('--best', action='store_true', help='trained with perceptual loss')
