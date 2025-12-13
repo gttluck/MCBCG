@@ -9,7 +9,7 @@
 
 - [x] Testing Code & Checkpoint enhancement  
 - [x] Model.py  
-- [ ] Train.py  
+- [x] Train.py  
 
 
 ## Quantitative Results
